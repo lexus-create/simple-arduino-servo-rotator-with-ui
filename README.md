@@ -13,3 +13,5 @@ Active button → D4, other leg to GND
 
 Select toggles which way the servo rotates. The active button is held down to make the servo actually rotate.
 
+![Wiring diagram](./circuitmotor.png)
+

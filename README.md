@@ -10,3 +10,6 @@ Servo VCC → 5V
 Servo GND → GND
 Select button → D3, other leg to GND
 Active button → D4, other leg to GND
+
+Select toggles which way the servo rotates. The active button is held down to make the servo actually rotate.
+
